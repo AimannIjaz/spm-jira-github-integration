@@ -1,1 +1,1 @@
-"Code for viewing user profile" 
+"profile feature" 
