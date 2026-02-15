@@ -1,1 +1,1 @@
-"View profile feature" 
+"User profile feature added" 
